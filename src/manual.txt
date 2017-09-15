@@ -1,0 +1,19 @@
+---Asteroids Game Manual---
+
+- Press 'Enter' on the Title Screen to play.
+
+- Press "Spacebar" to shoot.
+
+- Press the left and right arrow keys to make the player ship spin in that direction.
+
+- Press the up arrow key to make the player ship accelerate.
+
+- Press "Enter" while playing to enter the Hyperspace (teleports randomly to another position of the map. 
+Caution: you can appear and collide with an asteroid)
+
+- Press 'P' to pause and unpause.
+
+- Press 'Esc' to finish the game (Goes to Game Over Screen)
+
+- Press 'Enter' on the Game Over Screen to go back to the Title Screen.
+
